@@ -1,3 +1,3 @@
-1 - flask api (web) <br>
-2 - telegram bot (worker) <br>
-3 - discord bot (worker) <br>
+01 - Flask API (web) <br>
+02 - Telegram Bot (worker) <br>
+03 - Discord Bot (worker) <br>
